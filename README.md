@@ -1,2 +1,2 @@
 # katch
-This repository is used fo high-level design of the Test Framework for the Katch healthcare websites.
+This repository is used for high-level design of the Test Framework for the Katch healthcare websites.
